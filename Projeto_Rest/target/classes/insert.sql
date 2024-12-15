@@ -1,0 +1,2 @@
+insert produto(uuid, nome, preco, quantidade, validade) values(uuid(),'Coca-cola', 10.00, 10, '2024-01-03');
+insert produto(uuid, nome, preco, quantidade, validade) values(uuid(),'Heineken', 8.00, 10, '2024-04-10');
